@@ -47,3 +47,9 @@ SECCIÓN 3-1. La relación de corriente, voltaje y resistencia.
 12.Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuen- te de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
 ![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%206..png)
+
+SECCIÓN 3–2 Cálculo de la corriente
+
+16.Determine la corriente en cada caso:
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%207.png)
