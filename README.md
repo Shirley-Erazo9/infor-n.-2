@@ -71,3 +71,35 @@ SECCIÓN 3–3 Cálculo de voltaje
 24. Calcule el voltaje para cada valor de I y R:
 
 ![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2011%20(2).png)
+
+26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 pa- ra obtener las cantidades de corriente indicadas.
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2012%20(2).png)
+
+SECCIÓN 3 – 4 Cálculo de la resistencia.
+
+28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2013%20(2).png)
+
+30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2014%20(2).png)
+
+32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de cir- cuito necesarias.
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2)
+
+34.Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reósta- to sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 .
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2016%20(2).png)
+
+36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2017%20(2).png)
+
+ENERGÍA Y POTENCIA CAP 4.
+
+2.Demuestre que hay 3.6 106 joules en un kilowatt-hora.
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2018%20(2).png)
