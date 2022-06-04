@@ -39,3 +39,7 @@ SECCIÓN 3-1. La relación de corriente, voltaje y resistencia.
 ![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%204.1.png)
 
 ![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%204.png)
+
+10.¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%205.png)
