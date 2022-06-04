@@ -103,3 +103,27 @@ ENERGÍA Y POTENCIA CAP 4.
 2.Demuestre que hay 3.6 106 joules en un kilowatt-hora.
 
 ![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2018%20(2).png)
+
+4.Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2019%20(2).png)
+
+6. Convierta las siguientes cantidades en kilowatts:
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2021%20(2).png)
+
+8. Convierta las siguientes cantidades en miliwatts:
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2022%20(2).png)
+
+10. Convierta las siguientes cantidades en watts:
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2023%20(2).png)
+
+12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2024%20(2).png)
+
+14. Convierta 5 106 watts-minutos en kWh.
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2025%20(2).png)
