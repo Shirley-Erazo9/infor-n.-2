@@ -1,3 +1,5 @@
+UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE.
+
 Informe tarea: Capitulo 3 y 4.
 
 Nombre: Shirley Erazo.
@@ -127,3 +129,14 @@ ENERGÍA Y POTENCIA CAP 4.
 14. Convierta 5 106 watts-minutos en kWh.
 
 ![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2025%20(2).png)
+
+CONCLUSIONES.
+
+Podemos decir que la ley de Ohm utilizamos para establecer la relación entre tensión, corriente y resistencia en un circuito eléctrico.
+
+Detallamos que la ley de Ohm establece que la corriente que pasa por los conductores es proporcional al voltaje aplicado en ellos.
+
+BIBLIOGRAFÍA.
+
+Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Pearson Education. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comments on commit 73edc1a
+
