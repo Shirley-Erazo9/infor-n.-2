@@ -43,3 +43,7 @@ SECCIÓN 3-1. La relación de corriente, voltaje y resistencia.
 10.¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
 ![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%205.png)
+
+12.Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuen- te de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%206..png)
