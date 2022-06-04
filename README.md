@@ -53,3 +53,21 @@ SECCIÓN 3–2 Cálculo de la corriente
 16.Determine la corriente en cada caso:
 
 ![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%207.png)
+
+18.Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrien- tes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%208%20(2).png)
+
+20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%209%20(2).png)
+
+22.El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente sumi- nistrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 o menos, el elemen- to calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2010%20(2).png)
+
+SECCIÓN 3–3 Cálculo de voltaje
+
+24. Calcule el voltaje para cada valor de I y R:
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%2011%20(2).png)
