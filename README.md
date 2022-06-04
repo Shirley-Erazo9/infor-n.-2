@@ -9,3 +9,4 @@ Marco teoric
 [](https://github.com/Shirley-Erazo9/Informe-Tarea-2/blob/main/Mp%201%20.jpg) 
 [](https://github.com/Shirley-Erazo9/Informe-Tarea-2/blob/main/Mp%201%20.jpg) 
 [](https://github.com/Shirley-Erazo9/Informe-Tarea-2/blob/main/Mp%201%20.jpg)
+(https://github.com/Shirley-Erazo9/Informe-Tarea-2/blob/main/Mp%201%20.jpg)
