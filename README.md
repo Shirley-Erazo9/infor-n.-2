@@ -29,3 +29,7 @@ SECCIÓN 3-1. La relación de corriente, voltaje y resistencia.
 4.Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
 ![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%202.png)
+
+6.En cierto circuito, I 5 mA cuando V 1 V. Determine la corriente para cada uno de los voltajes si- guientes en el mismo circuito.
+
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%203.png)
