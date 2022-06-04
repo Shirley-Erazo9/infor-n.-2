@@ -36,4 +36,6 @@ SECCIÓN 3-1. La relación de corriente, voltaje y resistencia.
 
 8.Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%204.1.png)
+
 ![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/EJR%204.png)
