@@ -12,8 +12,8 @@ Objetivo general: Saber entender y distinguir los diferentes conceptos dados en 
 
 Objetivo especifico:  Establecer  y aplicar  las formulas en los respectivos ejercicios en este caso la Ley de Ohm.
 
-Marco teoric
+Marco teorico
 
 ![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/Mp%201%20.jpg)
 
-![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/Yearly%20Goals%20Simple%20Cloud%20Mind%20Map.png)
+![](https://github.com/Shirley-Erazo9/infor-n.-2/blob/main/MP%202.jpg)
